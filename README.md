@@ -10,7 +10,7 @@ I'm a 2023 computer science graduate from Toronto Metropolitan University, passi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajcastan0103)](https://github.com/ajcastan0103/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alexander-castaneda-a98867203//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://ca.linkedin.com/in/alexander-castaneda-a98867203)  
 
 
 
