@@ -2,7 +2,7 @@
 I'm a 2023 computer science graduate from Toronto Metropolitan University, passionate about exploring and learning new technologies.
 
 #### Current Project
-![Current Project](https://blog.playstation.com/tachyon/2023/09/de8330d69153a4c98d495db54bf15860f0f6865e.jpg)
+![Current Project](https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/08/Honkai-Star-Rail-gamescom-hero.jpg)
 
 🚀 I love turning theoretical knowledge into practical solutions. One of my notable projects is the development of a fan-made RESTful API for Honkai Star Rail, where I showcased my skills in JavaScript, Node.js, Express.js, PostgreSQL, and app deployment using Vercel. Currently, I'm working on adding new features to enhance the API's functionality.
 
